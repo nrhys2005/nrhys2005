@@ -20,7 +20,7 @@
 ## Certification
 
 
-- AWS Certified Solutions Architect - Associate
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/b9b9ff21-9d3f-45f2-a98a-50917e9b9b8f/public_url)
 
 <!--
 **nrhys2005/nrhys2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
