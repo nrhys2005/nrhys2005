@@ -4,7 +4,6 @@
 
 - 이름: 이상훈
 - 이메일: nrhys2005@gmail.com
-- 웹사이트: [Blog](https://hunstory.tistory.com/)
 
 ## Skill
 
@@ -14,8 +13,7 @@
 ## 연락처
 
 
-나와 연락하려면 다음의 방법 중 하나를 사용하세요:
-- 이메일: nrhys2005@gmail.com
+- email: nrhys2005@gmail.com
 
 ## Certification
 
