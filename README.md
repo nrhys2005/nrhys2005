@@ -2,16 +2,20 @@
 
 ## Profile
 
-- 이름: 이상훈
-- 이메일: nrhys2005@gmail.com
+- Name: 이상훈
+- Blog: [tistory](https://hunstory.tistory.com/)
 
 ## Skill
 
+- [Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- [JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- [Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- [MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- [PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- [AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- Django
-
-## 연락처
-
+## Contact
 
 - email: nrhys2005@gmail.com
 
