@@ -2,8 +2,8 @@
 
 ## Profile
 
-- Name: 이상훈
-- Blog: [Tistory](https://hunstory.tistory.com/)
+- name: 이상훈
+- blog: [tistory](https://hunstory.tistory.com/)
 
 ## Skill
 
