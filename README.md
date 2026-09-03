@@ -2,7 +2,6 @@
 
 Backend engineer. Python, FastAPI, Kubernetes.
 
-📄 [Résumé (Notion)](https://citrine-tarsier-db8.notion.site/92c06eaea2144d4f8f3ada1ee3ce9c3a)
 
 ### What I'm working on
 
