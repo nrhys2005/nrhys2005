@@ -12,6 +12,11 @@ Backend engineer. Python, FastAPI, Kubernetes.
 - One MCP server unifying Jira, Slack, Notion and Datadog tools, with a hand-written Markdown/ADF converter.
 - FastAPI services on EKS with Helm, currently at 99.9% availability.
 
+### Open source
+
+- [cmux](https://github.com/manaflow-ai/cmux) (macOS terminal, Swift): made `setup.sh` fail early on a missing Metal or Rust toolchain instead of dying mid-build, and fixed the prerequisites it never documented. [#12352](https://github.com/manaflow-ai/cmux/pull/12352)
+- Reported a native-fullscreen window bug there with a 4 Hz `CGWindowList` probe, turning "the screen looks broken" into exact frame coordinates and ruling out the pane layout. [#11822](https://github.com/manaflow-ai/cmux/issues/11822)
+
 ### Before that
 
 - Normalized tables with hundreds of millions of rows and tuned the queries. Reads got about 18x faster.
