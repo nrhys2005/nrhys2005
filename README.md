@@ -14,6 +14,8 @@ Backend engineer. Python, FastAPI, Kubernetes.
 
 ### Open source
 
+- [MLflow](https://github.com/mlflow/mlflow): the tracking UI sat on a loading skeleton forever with no error, no console output and no network request. `MlflowRouter` gates the entire app on one query settling, and a `server-info` request that never responds had nothing to bound it, so it now times out into the fallback the code already had. [#26027](https://github.com/mlflow/mlflow/pull/26027), merged
+- Same blank screen, different cause: React Query pauses every query when `navigator.onLine` is false, and desktop Chrome can latch that process-wide while the network is fine. Bisected it across MLflow versions and browsers before touching any code. [#25933](https://github.com/mlflow/mlflow/issues/25933), fix in review at [#25961](https://github.com/mlflow/mlflow/pull/25961)
 - [cmux](https://github.com/manaflow-ai/cmux) (macOS terminal, Swift): made `setup.sh` fail early on a missing Metal or Rust toolchain instead of dying mid-build, and fixed the prerequisites it never documented. [#12352](https://github.com/manaflow-ai/cmux/pull/12352)
 - Reported a native-fullscreen window bug there with a 4 Hz `CGWindowList` probe, turning "the screen looks broken" into exact frame coordinates and ruling out the pane layout. [#11822](https://github.com/manaflow-ai/cmux/issues/11822)
 
